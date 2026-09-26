@@ -48,10 +48,11 @@ I'm **Pratyay**, a Computer Science & Information Technology graduate who enjoys
 My interests sit at the intersection of **software development, artificial intelligence, machine learning, and problem solving**. I also enjoy exploring research-oriented problems where technology can be used to solve practical challenges.
 
 * 🎓 **B.Tech in Computer Science & Information Technology**
-* 💻 Interested in **Software Development & Data/ML Engineering**
 * 🤖 Exploring **Artificial Intelligence & Machine Learning**
 * 🔐 Worked with **Federated Learning & Privacy-Preserving ML**
 * 🌱 Always learning, building, breaking, and improving
+
+I am on the way of building a massive repository of coding problems for competitive programming. Check it out under my repository - "LeetCode-DSA".
 
 <br/>
 
