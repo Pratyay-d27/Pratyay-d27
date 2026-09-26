@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/LeetCode-Solve%20with%20me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
-<br/><br/>
+<br/>
 
 </div>
 
