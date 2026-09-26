@@ -45,14 +45,12 @@ Here are some ideas to get you started:
 
 I'm **Pratyay**, a Computer Science & Information Technology graduate who enjoys turning concepts into working systems and learning by building.
 
-My interests sit at the intersection of **software development, artificial intelligence, machine learning, and problem solving**. I also enjoy exploring research-oriented problems where technology can be used to solve practical challenges.
+My interests sit at the intersection of **software development, artificial intelligence, machine learning, and problem solving**. I also enjoy exploring research-oriented problems where technology can be used to solve practical challenges. I am on the way of building a massive repository of coding problems for competitive programming. Check it out under my repository - **LeetCode-DSA**.
 
 * 🎓 **B.Tech in Computer Science & Information Technology**
 * 🤖 Exploring **Artificial Intelligence & Machine Learning**
 * 🔐 Worked with **Federated Learning & Privacy-Preserving ML**
 * 🌱 Always learning, building, breaking, and improving
-
-I am on the way of building a massive repository of coding problems for competitive programming. Check it out under my repository - "LeetCode-DSA".
 
 <br/>
 
@@ -76,19 +74,19 @@ I am on the way of building a massive repository of coding problems for competit
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript,mysql&theme=dark" />
 
 <br/><br/>
 
 ### Development & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,html,css,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,html,css,vscode,linux,node.js&theme=dark" />
 
 <br/><br/>
 
 ### Data, AI & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,keras,matplotlib&theme=dark" />
 
 <br/><br/>
 
