@@ -103,19 +103,11 @@ My interests sit at the intersection of **software development, artificial intel
 
 
 
-## ⚡ GitHub activity
+## ⚡ GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Pratyay-d27&theme=tokyonight&hide_border=true" width="90%" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pratyay-d27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="90%" alt="GitHub Stats"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyay-d27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="55%" alt="Top Languages"/>
+<img src="https://raw.githubusercontent.com/Pratyay-d27/Pratyay-d27/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub Contribution Snake"/>
 
 <br/><br/>
 
