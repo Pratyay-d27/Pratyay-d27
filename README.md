@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pratyay-d27/Pratyay-d27/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
-</p>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=230&section=header&text=Hello%2C%20I'm%20Pratyay!&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=57&descSize=18" width="100%"/>
