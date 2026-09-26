@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/Pratyay-d27">
 <img src="https://img.shields.io/badge/GitHub-Pratyay--d27-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/pratyay-ghosh-8b4277343/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/Ghosh_P/">
 <img src="https://img.shields.io/badge/LeetCode-Solve%20with%20me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
@@ -54,8 +54,6 @@ My interests sit at the intersection of **software development, artificial intel
 * 💻 Interested in **Software Development & Data/ML Engineering**
 * 🤖 Exploring **Artificial Intelligence & Machine Learning**
 * 🔐 Worked with **Federated Learning & Privacy-Preserving ML**
-* 🧠 Regularly practicing **Data Structures & Algorithms**
-* 🔬 Interested in **research, experimentation, and building practical systems**
 * 🌱 Always learning, building, breaking, and improving
 
 <br/>
@@ -80,7 +78,7 @@ My interests sit at the intersection of **software development, artificial intel
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript,sql&theme=dark" />
 
 <br/><br/>
 
