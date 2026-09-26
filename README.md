@@ -121,44 +121,6 @@ My interests sit at the intersection of **software development, artificial intel
 
 <br/>
 
-## 🌱 Currently exploring
-
-<div align="center">
-
-```text
-Software Development
-        ↓
-Data Structures & Algorithms
-        ↓
-Artificial Intelligence & Machine Learning
-        ↓
-Research & Experimentation
-        ↓
-Build → Learn → Improve → Repeat
-```
-
-</div>
-
-<br/>
-
-## 🌐 Find me around the web
-
-<div align="center">
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Find%20me%20there-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="mailto:">
-<img src="https://img.shields.io/badge/Email-Let's%20connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
 <br/><br/>
 
 <div align="center">
