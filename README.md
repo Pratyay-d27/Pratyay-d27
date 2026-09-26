@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Pratyay-d27&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile Views"/>
-
 </div>
 
 <br/>
