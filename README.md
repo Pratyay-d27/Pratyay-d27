@@ -107,11 +107,6 @@ My interests sit at the intersection of **software development, artificial intel
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pratyay-d27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyay-d27&layout=compact&theme=tokyonight&hide_border=true" width="39%"/>
-
-<br/><br/>
-
 </div>
 
 <br/>
