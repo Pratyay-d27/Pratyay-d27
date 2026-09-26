@@ -80,7 +80,7 @@ My interests sit at the intersection of **software development, artificial intel
 
 ### Development & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,html,css,vscode,linux,node&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,html,css,vscode,linux&theme=dark" />
 
 <br/><br/>
 
