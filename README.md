@@ -99,17 +99,34 @@ My interests sit at the intersection of **software development, artificial intel
 
 <br/>
 
-## 📊 GitHub activity
+
+
+
+
+## ⚡ GitHub activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Pratyay-d27&theme=tokyonight&hide_border=true" width="90%" alt="GitHub Streak Stats"/>
+<img src="https://streak-stats.demolab.com/?user=Pratyay-d27&theme=tokyonight&hide_border=true" width="90%" alt="GitHub Streak"/>
 
 <br/><br/>
 
-### 💭 *Build something. Learn something. Repeat.*
+<img src="https://github-readme-stats.vercel.app/api?username=Pratyay-d27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="90%" alt="GitHub Stats"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyay-d27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="55%" alt="Top Languages"/>
+
+<br/><br/>
+
+### `while(alive) { learn(); build(); solve(); }` ⚡
 
 </div>
+
+
+
+
+
 
 <br/>
 
