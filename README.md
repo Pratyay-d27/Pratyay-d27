@@ -115,7 +115,7 @@ My interests sit at the intersection of **software development, artificial intel
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/6366f1/MAZHARMIK" width="100%" alt="MAZHARMIK's github contribution chart"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratyay-d27&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph"/>
 
 </div>
 
