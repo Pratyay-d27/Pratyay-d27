@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 -->
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+things+that+make+me+learn+%F0%9F%9A%80;Solving+problems%2C+one+at+a+time+%F0%9F%A7%A9;Exploring+Software+Development+%26+AI%2FML;Turning+ideas+into+working+systems;Always+learning.+Always+building." alt="Typing animation">
+</p>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=230&section=header&text=Hello%2C%20I'm%20Pratyay!&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=57&descSize=18" width="100%"/>
