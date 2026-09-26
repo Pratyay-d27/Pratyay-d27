@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Pratyay-d27/Pratyay-d27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
