@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=700&color=00D9FF&background=0D1117&center=true&vCenter=true&width=700&height=90&lines=%24+whoami+%E2%86%92+Pratyay;"+%24+focus+%E2%86%92+Software+%7C+AI%2FML+%7C+DSA;%24+status+%E2%86%92+Learning+%26+Building;%24+next+%E2%86%92+Something+better+%F0%9F%9A%80" alt="Terminal animation">
+</p>
+
 
 <div align="center">
 
