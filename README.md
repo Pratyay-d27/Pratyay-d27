@@ -107,12 +107,6 @@ My interests sit at the intersection of **software development, artificial intel
 
 <br/><br/>
 
-</div>
-
-<br/>
-
-<div align="center">
-
 ### 💭 *Build something. Learn something. Repeat.*
 
 <br/>
