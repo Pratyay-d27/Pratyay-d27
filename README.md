@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=230&section=header&text=Hello%2C%20I'm%20Pratyay!&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=57&descSize=18" width="100%"/>
@@ -117,3 +117,4 @@ My interests sit at the intersection of **software development, artificial intel
 
 </div>
 
+-->
