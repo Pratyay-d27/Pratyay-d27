@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
+
 
 <div align="center">
 
@@ -119,4 +119,4 @@ My interests sit at the intersection of **software development, artificial intel
 </div>
 
 
--->
+
