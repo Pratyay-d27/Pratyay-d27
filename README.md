@@ -104,7 +104,8 @@ My interests sit at the intersection of **software development, artificial intel
 
 <div align="center">
 
-<img src="https://herokuapp.com" width="90%" alt="GitHub Streak Stats"/>
+<img src="https://vercel.app" width="90%" alt="GitHub Streak Stats"/>
+
 
 <br/><br/>
 
