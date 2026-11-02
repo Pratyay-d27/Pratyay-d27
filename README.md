@@ -104,7 +104,7 @@ My interests sit at the intersection of **software development, artificial intel
 
 <div align="center">
 
-<img src="https://demolab.com" width="90%" alt="GitHub Streak Stats"/>
+https://streak-stats.demolab.com/?user=Pratyay-d27&theme=tokyonight&hide_border=true
 
 <br/><br/>
 
