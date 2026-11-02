@@ -112,7 +112,11 @@ My interests sit at the intersection of **software development, artificial intel
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/6366f1/Pratyay-d27" width="100%" alt="Pratyay's github contribution chart"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pratyay-d27/Pratyay-d27/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pratyay-d27/Pratyay-d27/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Pratyay-d27/Pratyay-d27/output/github-snake.svg" width="100%" />
+</picture>
 
 </div>
 
