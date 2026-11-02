@@ -100,13 +100,26 @@ My interests sit at the intersection of **software development, artificial intel
 
 <br/>
 
-## 📊 GitHub Activity
+
+
+
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Pratyay-d27&theme=tokyonight&hide_border=true" width="90%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratyay-d27&theme=tokyonight&hide_border=true" width="100%"/>
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/6366f1/Pratyay-d27" width="100%" alt="Pratyay's github contribution chart"/>
 
 </div>
+
+
+
+
+
 
 ### 💭 *Build something. Learn something. Repeat.*
 
