@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 
 <div align="center">
 
@@ -101,7 +101,21 @@ My interests sit at the intersection of **software development, artificial intel
 <br/>
 
 
+<!--
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="./profile/streak.svg" width="90%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/6366f1/Pratyay-d27" width="100%" alt="Pratyay's github contribution chart"/>
+
+</div>
+
+-->
 
 
 ## 📊 GitHub Stats
@@ -121,10 +135,6 @@ My interests sit at the intersection of **software development, artificial intel
 </div>
 
 
-
-
-
-
 ### 💭 *Build something. Learn something. Repeat.*
 
 </div>
@@ -136,4 +146,4 @@ My interests sit at the intersection of **software development, artificial intel
 </div>
 
 
-
+-->
